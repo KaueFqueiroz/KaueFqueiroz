@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kauê Queiroz
 
-🎯 **Aspiring Java Developer | Logistics → Software Engineering**
+🎯 **Aspiring Java Developer**
 🇧🇷 Fortaleza, Ceará - Brazil
 
 Curso Análise e Desenvolvimento de Sistemas (ADS) e construo projetos práticos aplicando conceitos de POO, Collections, Generics e Spring Boot, sempre buscando escrever código limpo e funcional.
