@@ -13,7 +13,7 @@ Curso Análise e Desenvolvimento de Sistemas (ADS) e construo projetos práticos
   <a href="https://github.com/KaueFqueiroz">
     <img src="https://img.shields.io/badge/GitHub-KaueFqueiroz-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="kaue-freitas-dev"> <img src="https://img.shields.io/badge/LinkedIn-Kauê%20Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="[kaue-freitas-dev](https://www.linkedin.com/in/kaue-freitas-dev/)"> <img src="https://img.shields.io/badge/LinkedIn-Kauê%20Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 </p>
 
 ---
