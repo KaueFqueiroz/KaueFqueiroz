@@ -54,6 +54,7 @@ Curso Análise e Desenvolvimento de Sistemas (ADS) e construo projetos práticos
 
 -   **desafios-java** — repositório com desafios estruturados de Java (POO, Collections, Generics, Streams) construído durante meu roadmap de estudos.
 -   **Bookstore API** — API REST com Spring Boot, primeiro projeto completo aplicando arquitetura em camadas.
+-   **Sistema de Agendamento** — API multi-tenant em Spring Boot para gestão de reservas, com regra de disponibilidade e autenticação JWT. (Em andamento...)
 
 ---
 
